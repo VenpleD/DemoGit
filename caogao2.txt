@@ -8,6 +8,9 @@
 
 检查现在使用RVM管理的Ruby版本
 
+hello iss53
+
+
 
 
 
