@@ -1,4 +1,4 @@
-添加sshkey，输入比心邮箱密码，生成key
+﻿添加sshkey，输入比心邮箱密码，生成key
 1.bundler DONE sudo gem install bundler
 2.RVM &Ruby
 3.add gem source  ->our gem source 
@@ -11,7 +11,7 @@
 hello master
 
 future/dev_1.1
-
+window change
 
 
 
