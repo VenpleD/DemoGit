@@ -8,6 +8,7 @@
 
 检查现在使用RVM管理的Ruby版本
 
+hello master add by future
 
 future/dev_1.1
 
