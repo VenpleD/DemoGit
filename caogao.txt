@@ -1,4 +1,4 @@
-添加sshkey，输入比心邮箱密码，生成key
+﻿添加sshkey，输入比心邮箱密码，生成key
 1.bundler DONE sudo gem install bundler
 2.RVM &Ruby
 3.add gem source  ->our gem source 
@@ -11,7 +11,7 @@ master 第一次添加
 server 第一次修改
 client 第一次修改
 client 第二次修改
-
+win_server 提交 6:14
 
 
 
