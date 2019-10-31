@@ -8,7 +8,7 @@
 
 检查现在使用RVM管理的Ruby版本
 server 第一次修改
-
+server 第二次修改
 
 
 
