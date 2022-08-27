@@ -1,0 +1,16 @@
+添加sshkey，输入比心邮箱密码，生成key
+1.bundler DONE sudo gem install bundler
+2.RVM &Ruby
+3.add gem source  ->our gem source 
+4. zsh & item
+
+列出可供RVM使用的Ruby版本rvm list
+
+检查现在使用RVM管理的Ruby版本
+
+future/dev_1.1
+
+
+
+
+
